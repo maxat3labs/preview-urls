@@ -2,5 +2,9 @@
   {
     "name": "Preview",
     "url": "https://bitbot-fe-preview.vercel.app"
+  },
+  {
+    "name": "PreviewSpinUI",
+    "url": "bitbot-fe-git-spin-fix-bitbotapp.vercel.app"
   }
 ]

@@ -10,5 +10,9 @@
   {
     "name": "SearchV2",
     "url": "https://bitbot-fe-git-feat-searchv2-bitbotapp.vercel.app"
+  },
+  {
+    "name": "Solana Support",
+    "url": "https://bitbot-fe-git-feature-solana-support-bitbotapp.vercel.app"
   }
 ]

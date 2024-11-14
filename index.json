@@ -14,5 +14,9 @@
   {
     "name": "Handle Referral Code",
     "url": "https://bitbot-fe-git-feat-handle-referral-code-bitbotapp.vercel.app"
+  },
+  {
+    "name": "Sol Preview",
+    "url": "https://bitbot-fe-git-feature-solana-support-bitbotapp.vercel.app"
   }
 ]

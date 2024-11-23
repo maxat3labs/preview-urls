@@ -4,14 +4,6 @@
     "url": "https://bitbot-fe-preview.vercel.app"
   },
   {
-    "name": "PreviewSpinUI",
-    "url": "https://bitbot-fe-git-spin-fix-bitbotapp.vercel.app"
-  },
-  {
-    "name": "SearchV2",
-    "url": "https://bitbot-fe-git-feat-searchv2-bitbotapp.vercel.app"
-  },
-  {
     "name": "Handle Referral Code",
     "url": "https://bitbot-fe-git-feat-handle-referral-code-bitbotapp.vercel.app"
   },

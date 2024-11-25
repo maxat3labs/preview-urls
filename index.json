@@ -4,14 +4,6 @@
     "url": "https://bitbot-fe-preview.vercel.app"
   },
   {
-    "name": "Handle Referral Code",
-    "url": "https://bitbot-fe-git-feat-handle-referral-code-bitbotapp.vercel.app"
-  },
-  {
-    "name": "Sol Preview",
-    "url": "https://bitbot-fe-git-feat-solana-bitbotapp.vercel.app"
-  },
-  {
     "name": "TG JS Upgrade",
     "url": "https://bitbot-fe-git-feat-tg-js-upgrade-bitbotapp.vercel.app"
   }

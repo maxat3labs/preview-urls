@@ -10,5 +10,9 @@
   {
     "name": "Virtual Multiple Pools",
     "url": "https://bitbot-fe-git-feat-virtual-multi-pools-bitbotapp.vercel.app"
+  },
+  {
+    "name": "Fix create EOA wallet",
+    "url": "https://bitbot-fe-git-tmp-fix-create-eoa-wallet-error-bitbotapp.vercel.app/"
   }
 ]

@@ -10,5 +10,9 @@
   {
     "name": "Virtual Multiple Pools",
     "url": "https://bitbot-fe-git-feat-virtual-multi-pools-bitbotapp.vercel.app"
+  },
+  {
+    "name": "Fullscreen",
+    "url": "https://bitbot-fe-git-feat-add-enter-full-screen-bitbotapp.vercel.app"
   }
 ]

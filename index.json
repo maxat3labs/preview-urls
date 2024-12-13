@@ -14,5 +14,9 @@
   {
     "name": "Fullscreen",
     "url": "https://bitbot-fe-git-feat-add-enter-full-screen-bitbotapp.vercel.app"
+  },
+  {
+    "name": "Strategy Order",
+    "url": "https://bitbot-fe-git-feat-strategy-apis-bitbotapp.vercel.app",
   }
 ]

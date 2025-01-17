@@ -12,11 +12,11 @@
     "url": "https://bitbot-fe-git-feat-virtual-multi-pools-bitbotapp.vercel.app"
   },
   {
-    "name": "Fullscreen",
-    "url": "https://bitbot-fe-git-feat-add-enter-full-screen-bitbotapp.vercel.app"
-  },
-  {
     "name": "Strategy EVM",
     "url": "https://bitbot-fe-git-feat-strategy-evm-bitbotapp.vercel.app"
+  },
+  {
+    "name": "V2.5 I18N",
+    "url": "https://bitbot-fe-git-feat-v25-i18n-bitbotapp.vercel.app"
   }
 ]
